@@ -1,7 +1,0 @@
-game.StarterGui: SetCore("SendNotification", {
-
-Title = "FUCK YOU";
-Text = "HO FUCK YOUR SELF";
-Duration = "999";
-
-})

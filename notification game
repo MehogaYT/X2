@@ -1,0 +1,7 @@
+game.StarterGui:SetCore("SendNotification", {
+
+Title = "Tittle";
+Text = "Description/text";
+Duration = "999"; --duration to show/pop up 
+
+})
